@@ -1,0 +1,21 @@
+{
+  "name": "thumble-controller",
+  "version": "0.2.0",
+  "description": "Inspect saved Thumble controller layouts, registered phones and existing delivery receipts.",
+  "author": {
+    "name": "Thumble",
+    "email": "cody@isolated.tech"
+  },
+  "homepage": "https://thumble.io",
+  "repository": "https://github.com/CodyBontecou/thumble-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "thumble",
+    "controllers",
+    "phone",
+    "mcp"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "supportUrl": "mailto:cody@isolated.tech",
+  "privacyPolicyUrl": "https://thumble.io/privacy"
+}
